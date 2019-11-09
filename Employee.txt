@@ -1,3 +1,3 @@
-1 Kodi Sunder 5
-2 Rikin Patel 10
-3 Vishal Nagar 15
+$EmployeeNumber $LastName $FirstName $YearsofExperience
+$EmployeeNumber $LastName $FirstName $YearsofExperience
+$EmployeeNumber $LastName $FirstName $YearsofExperience
