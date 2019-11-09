@@ -29,3 +29,6 @@ COUNT-Returns the number of Employees in the tree
 PRINT-Prints the employee information in the list to the console
 
 QUIT-Stops processing
+
+
+Clone this repository, Add your Initial Attributes to the 'Employee.txt' file and then Run the 'main.cpp' file.
